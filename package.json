@@ -1,0 +1,9 @@
+{
+  "name": "nomad-typechain",
+  "version": "1.0.0",
+  "description": "Learning Typescript by making a Blockchain with it",
+  "main": "index.js",
+  "repository": "https://github.com/funnystyle/nomad-typechain.git",
+  "author": "Funnystyle <esero@hanmail.net>",
+  "license": "MIT"
+}
