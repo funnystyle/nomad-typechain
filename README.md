@@ -15,7 +15,7 @@ Learning Typescript by making a Blockchain with it
 - [x] #0.7 Classes on Typescript part One (05:05)
 - [x] #0.8 Blockchain Creating a Block (05:13)
 - [x] #0.9 Creating a Block part Two (07:09)
-- [ ] #0.10 Creating a Block part Three (05:20)
+- [x] #0.10 Creating a Block part Three (05:20)
 - [ ] #0.11 Validating Block Structure (07:39)
 - [ ] #0.12 Validating Block Structure part Two (04:25)
 - [ ] #0.13 Conclusions (03:31)
