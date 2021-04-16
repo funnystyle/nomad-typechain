@@ -6,10 +6,10 @@ Learning Typescript by making a Blockchain with it
 
 #0 TYPESCRIPT FOR BEGINNERS
 
-- [ ] #0.1 🚨 Read this First 🚨
-- [ ] #0.2 Introduction and What are we building (03:09)
-- [ ] #0.3 Setting Typescript Up (05:25)
-- [ ] #0.4 First steps with Typescript (06:03)
+- [x] #0.1 🚨 Read this First 🚨
+- [x] #0.2 Introduction and What are we building (03:09)
+- [x] #0.3 Setting Typescript Up (05:25)
+- [x] #0.4 First steps with Typescript (06:03)
 - [ ] #0.5 Types in Typescript (07:28)
 - [ ] #0.6 Interfaces on Typescript (04:26)
 - [ ] #0.7 Classes on Typescript part One (05:05)
