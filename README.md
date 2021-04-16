@@ -18,4 +18,4 @@ Learning Typescript by making a Blockchain with it
 - [x] #0.10 Creating a Block part Three (05:20)
 - [x] #0.11 Validating Block Structure (07:39)
 - [x] #0.12 Validating Block Structure part Two (04:25)
-- [ ] #0.13 Conclusions (03:31)
+- [x] #0.13 Conclusions (03:31)
